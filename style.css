@@ -5,3 +5,10 @@
   font-size: 32px;
   color: #fff;
 }
+.main {
+  background-color: greenyellow;
+  padding: 50px 100px;
+  font-size: 36;
+  color: #fff;
+  text-align: center;
+}
